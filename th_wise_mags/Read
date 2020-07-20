@@ -1,0 +1,4 @@
+W4_mags.txt
+
+Mags from 5 to 1000 K following 5,10,15,....1000
+Lum from 1e-4 to 100 following np.logspace(1e-4,100,500)
