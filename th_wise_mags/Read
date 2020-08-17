@@ -1,4 +1,12 @@
 W4_mags.txt
+W3_mags.txt
+W2_mags.txt
+W1_mags.txt
+G_mags.txt
+J_mags.txt
+H_mags.txt
+K_mags.txt
+
 
 Mags from 5 to 1000 K following 5,10,15,....1000
 Lum from 1e-4 to 100 following np.logspace(1e-4,100,500)
